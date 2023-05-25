@@ -1,0 +1,131 @@
+div {
+    height: 80px;
+    width: 65px;
+}
+
+#a1 {
+    background-color: rgb(153, 231, 170);
+    margin-top: 88px;
+    margin-left: 441px;
+}
+
+#a2 {
+    background-color: rgb(64, 114, 52);
+    margin-top: -80px;
+    margin-left: 509px;
+}
+
+#a3 {
+    background-color: rgb(11, 233, 41);
+    margin-top: -80px;
+    margin-left: 577px;
+}
+
+#a4 {
+    background-color: rgb(0, 124, 37);
+    margin-top: -80px;
+    margin-left: 645px;
+}
+
+#a5 {
+    background-color: rgb(44, 75, 44);
+    margin-top: -80px;
+    margin-left: 713px;
+}
+
+#a6 {
+    background-color: rgb(175, 177, 201);
+    margin-top: 3px;
+    margin-left: 373px;
+}
+
+#a7 {
+    background-color: rgb(48, 36, 88);
+    margin-top: -80px;
+    margin-left: 441px;
+}
+
+#a8 {
+    background-color: rgb(62, 50, 167);
+    margin-top: -80px;
+    margin-left: 509px;
+}
+
+#a9 {
+    background-color: rgb(51, 88, 136);
+    margin-top: -80px;
+    margin-left: 577px;
+}
+
+#a10 {
+    background-color: rgb(240, 186, 10);
+    margin-top: -80px;
+    margin-left: 645px;
+}
+
+#a11 {
+    background-color: rgb(73, 12, 151);
+    margin-top: -80px;
+    margin-left: 713px;
+}
+
+#a12 {
+    background-color: rgb(65, 67, 175);
+    margin-top:-80px;
+    margin-left: 781px;
+}
+
+#a13 {
+    background-color: rgb(187, 120, 44);
+    margin-top: 2px;
+    margin-left: 305px;
+}
+
+#a14 {
+    background-color: rgb(170, 161, 27);
+    margin-top:-79px;
+    margin-left: 373px;
+}
+
+#a15 {
+    background-color: rgb(13, 190, 131);
+    margin-top:-80px;
+    margin-left: 441px;
+}
+
+#a16 {
+    background-color: rgb(143, 10, 121);
+    margin-top:-80px;
+    margin-left:509px;
+}
+
+#a17 {
+    background-color: rgb(71, 25, 65);
+    margin-top:-80px;
+    margin-left:577px;
+}
+
+#a18 {
+    background-color: rgb(185, 53, 53);
+    margin-top:-80px;
+    margin-left:645px;
+}
+
+#a19 {
+    background-color: rgb(241, 14, 82);
+    margin-top:-80px;
+    margin-left:713px;
+}
+#a20{
+    background-color: rgb(65, 4, 4);
+    margin-top: -80px;
+    margin-left: 781px;
+}
+#a21{
+    background-color: rgb(100, 134, 145);
+    margin-top: -80px;
+    margin-left: 849px;
+}
+body{
+    background-color: black;
+}
